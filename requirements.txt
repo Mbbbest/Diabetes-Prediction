@@ -1,5 +1,4 @@
-python==3.11.5
+
 pickle
-streamlit==1.39.0
 numpy
-pip==24.2
+
